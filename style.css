@@ -1,0 +1,60 @@
+
+h1,h3
+{
+    text-align: center;
+}
+
+.float-right
+{
+    float: right;
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.wrapper
+{
+    text-align: center;
+    font-size: 28px;
+}
+
+body{
+    overflow: hidden;
+}
+
+.show
+{
+  display: inline;
+}
+
+#bag
+{
+    background-color: #6f4a8e;
+    width: 100vw;
+    height: 100vh;
+    padding-bottom: 5%;
+    overflow: auto;
+    color: #fff;
+    z-index: 1;
+    padding-top: 10px;
+}
+
+h1:hover
+{
+    cursor:pointer;
+}
+
+canvas
+{
+    margin-top: 20px;0
+    z-index: 50;
+}
+
+#category
+{
+    margin: 15px auto;
+    width: auto;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient( 112.1deg,  rgba(32,38,57,1) 11.4%, rgba(63,76,119,1) 70.2% );
+}
+
